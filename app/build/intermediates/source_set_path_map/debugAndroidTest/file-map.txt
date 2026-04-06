@@ -1,0 +1,4 @@
+com.example.fastnotesapp.test.app-androidTest-0 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\generated\res\resValues\androidTest\debug
+com.example.fastnotesapp.test.app-mergeDebugAndroidTestResources-1 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.fastnotesapp.test.app-mergeDebugAndroidTestResources-2 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.fastnotesapp.test.app-merged_res-3 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\intermediates\merged_res\debugAndroidTest

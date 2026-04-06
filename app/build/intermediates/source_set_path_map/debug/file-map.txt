@@ -1,0 +1,56 @@
+com.example.fastnotesapp-pngs-0 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\generated\res\pngs\debug
+com.example.fastnotesapp-resValues-1 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\generated\res\resValues\debug
+com.example.fastnotesapp-packageDebugResources-2 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.fastnotesapp-packageDebugResources-3 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.fastnotesapp-merged_res-4 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\intermediates\merged_res\debug
+com.example.fastnotesapp-debug-5 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\src\debug\res
+com.example.fastnotesapp-main-6 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\src\main\res
+com.example.fastnotesapp-runtime-saveable-release-7 C:\Users\sivab\.gradle\caches\transforms-3\04966690a55759cb7af5184fd441bcee\transformed\runtime-saveable-release\res
+com.example.fastnotesapp-annotation-experimental-1.3.0-8 C:\Users\sivab\.gradle\caches\transforms-3\0f015f21c5a54bcda145c8fc0250ef2a\transformed\annotation-experimental-1.3.0\res
+com.example.fastnotesapp-ui-tooling-preview-release-9 C:\Users\sivab\.gradle\caches\transforms-3\10a9cd1bc23c603d133f1e2a8006e655\transformed\ui-tooling-preview-release\res
+com.example.fastnotesapp-foundation-layout-release-10 C:\Users\sivab\.gradle\caches\transforms-3\171c12a24bef5b13234a5099caff6269\transformed\foundation-layout-release\res
+com.example.fastnotesapp-navigation-runtime-ktx-2.7.6-11 C:\Users\sivab\.gradle\caches\transforms-3\1cfd2e09dbc9dc5041ccc493a386f851\transformed\navigation-runtime-ktx-2.7.6\res
+com.example.fastnotesapp-datastore-1.0.0-12 C:\Users\sivab\.gradle\caches\transforms-3\24acd6d9791367353160df49b7a1a59f\transformed\datastore-1.0.0\res
+com.example.fastnotesapp-navigation-runtime-2.7.6-13 C:\Users\sivab\.gradle\caches\transforms-3\252c35130fb45e9d093ad2db9fa30cbb\transformed\navigation-runtime-2.7.6\res
+com.example.fastnotesapp-core-1.12.0-14 C:\Users\sivab\.gradle\caches\transforms-3\25901db028606e064871e9eb256c2e4c\transformed\core-1.12.0\res
+com.example.fastnotesapp-navigation-common-2.7.6-15 C:\Users\sivab\.gradle\caches\transforms-3\272bc606ae49160ec074f87c72c86047\transformed\navigation-common-2.7.6\res
+com.example.fastnotesapp-lifecycle-viewmodel-compose-2.7.0-16 C:\Users\sivab\.gradle\caches\transforms-3\27443b8c4951b169cdc74bb074d37543\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.example.fastnotesapp-lifecycle-runtime-ktx-2.7.0-17 C:\Users\sivab\.gradle\caches\transforms-3\29202f762e3354427427e4aa07d80f8d\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.example.fastnotesapp-material-icons-core-release-18 C:\Users\sivab\.gradle\caches\transforms-3\2947b7d1885b11c18c13e9a9dfd19bf5\transformed\material-icons-core-release\res
+com.example.fastnotesapp-lifecycle-viewmodel-ktx-2.7.0-19 C:\Users\sivab\.gradle\caches\transforms-3\2e9f6978db8f7eb15db90e573e1885b6\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.example.fastnotesapp-animation-core-release-20 C:\Users\sivab\.gradle\caches\transforms-3\363c961599e72438cdbb8dca75c870d9\transformed\animation-core-release\res
+com.example.fastnotesapp-emoji2-1.3.0-21 C:\Users\sivab\.gradle\caches\transforms-3\36de3ba766b90e43bef67e8fdfc1f331\transformed\emoji2-1.3.0\res
+com.example.fastnotesapp-activity-1.8.2-22 C:\Users\sivab\.gradle\caches\transforms-3\37a22396f3e8cf97fe0c4f897bc208a4\transformed\activity-1.8.2\res
+com.example.fastnotesapp-ui-geometry-release-23 C:\Users\sivab\.gradle\caches\transforms-3\50732f34197a42f7c05a9775bff96d11\transformed\ui-geometry-release\res
+com.example.fastnotesapp-material-icons-extended-release-24 C:\Users\sivab\.gradle\caches\transforms-3\543c290b96ae5c46ae849ca46dfad854\transformed\material-icons-extended-release\res
+com.example.fastnotesapp-datastore-preferences-1.0.0-25 C:\Users\sivab\.gradle\caches\transforms-3\57a3c6055bc0c7268519feba870e10b0\transformed\datastore-preferences-1.0.0\res
+com.example.fastnotesapp-runtime-release-26 C:\Users\sivab\.gradle\caches\transforms-3\5f7ad26dad94a2d3aa7b1b85680cc852\transformed\runtime-release\res
+com.example.fastnotesapp-savedstate-ktx-1.2.1-27 C:\Users\sivab\.gradle\caches\transforms-3\6285ec61eec6bf4456579fcc69177ef5\transformed\savedstate-ktx-1.2.1\res
+com.example.fastnotesapp-ui-graphics-release-28 C:\Users\sivab\.gradle\caches\transforms-3\679a157ea46a4197ba357360a39a917c\transformed\ui-graphics-release\res
+com.example.fastnotesapp-foundation-release-29 C:\Users\sivab\.gradle\caches\transforms-3\7a5ffa266ab853680839bd2818eb3759\transformed\foundation-release\res
+com.example.fastnotesapp-core-runtime-2.2.0-30 C:\Users\sivab\.gradle\caches\transforms-3\867dd6eba093097e68318f860bde03f8\transformed\core-runtime-2.2.0\res
+com.example.fastnotesapp-navigation-compose-2.7.6-31 C:\Users\sivab\.gradle\caches\transforms-3\8c971e132aff9ffd0ba8b384d5caeffa\transformed\navigation-compose-2.7.6\res
+com.example.fastnotesapp-material3-1.1.2-32 C:\Users\sivab\.gradle\caches\transforms-3\9284008ae730a6fcd46fd001be617ce5\transformed\material3-1.1.2\res
+com.example.fastnotesapp-lifecycle-livedata-core-2.7.0-33 C:\Users\sivab\.gradle\caches\transforms-3\950543dd31d95cdac2e9ddd8352bf31f\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.fastnotesapp-core-ktx-1.12.0-34 C:\Users\sivab\.gradle\caches\transforms-3\96c07799d11af1ab77f7ccf32a1edcbf\transformed\core-ktx-1.12.0\res
+com.example.fastnotesapp-lifecycle-runtime-2.7.0-35 C:\Users\sivab\.gradle\caches\transforms-3\977ef9f13f737e8e878d40b52f493c1a\transformed\lifecycle-runtime-2.7.0\res
+com.example.fastnotesapp-material-ripple-release-36 C:\Users\sivab\.gradle\caches\transforms-3\9d0f1480b3f3c899cd95f8f980bc8a96\transformed\material-ripple-release\res
+com.example.fastnotesapp-activity-ktx-1.8.2-37 C:\Users\sivab\.gradle\caches\transforms-3\a0948be7dec03b8c74a22a73c7f18e01\transformed\activity-ktx-1.8.2\res
+com.example.fastnotesapp-profileinstaller-1.3.0-38 C:\Users\sivab\.gradle\caches\transforms-3\a2131a8bde701691afbe76ac291319a8\transformed\profileinstaller-1.3.0\res
+com.example.fastnotesapp-ui-release-39 C:\Users\sivab\.gradle\caches\transforms-3\ad5698da8af2d0dc5327ec6ef9f55e04\transformed\ui-release\res
+com.example.fastnotesapp-sqlite-2.4.0-40 C:\Users\sivab\.gradle\caches\transforms-3\b32665c7f7ac4bf2f35657bdc6bf5e79\transformed\sqlite-2.4.0\res
+com.example.fastnotesapp-animation-release-41 C:\Users\sivab\.gradle\caches\transforms-3\b3b5b1731da659e5437e337dd524a4c7\transformed\animation-release\res
+com.example.fastnotesapp-customview-poolingcontainer-1.0.0-42 C:\Users\sivab\.gradle\caches\transforms-3\b64f8fe7ffe816d3823cc1cc10a44620\transformed\customview-poolingcontainer-1.0.0\res
+com.example.fastnotesapp-navigation-common-ktx-2.7.6-43 C:\Users\sivab\.gradle\caches\transforms-3\b93d380d5a76ee82f8201d82c6e4a5b1\transformed\navigation-common-ktx-2.7.6\res
+com.example.fastnotesapp-lifecycle-process-2.7.0-44 C:\Users\sivab\.gradle\caches\transforms-3\c674a8dfa4211ba63b27ad492a061686\transformed\lifecycle-process-2.7.0\res
+com.example.fastnotesapp-lifecycle-viewmodel-2.7.0-45 C:\Users\sivab\.gradle\caches\transforms-3\cc818a399f80d2a790a30881fd7dcfe0\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.fastnotesapp-ui-text-release-46 C:\Users\sivab\.gradle\caches\transforms-3\d1e94483e27e9226661042caf75ddacc\transformed\ui-text-release\res
+com.example.fastnotesapp-ui-util-release-47 C:\Users\sivab\.gradle\caches\transforms-3\d28b84bae9ab7a63389cf975645e652e\transformed\ui-util-release\res
+com.example.fastnotesapp-ui-unit-release-48 C:\Users\sivab\.gradle\caches\transforms-3\d67919712cb8331abafec16dc354162d\transformed\ui-unit-release\res
+com.example.fastnotesapp-savedstate-1.2.1-49 C:\Users\sivab\.gradle\caches\transforms-3\dba2db6309193128baef66d73f1217aa\transformed\savedstate-1.2.1\res
+com.example.fastnotesapp-activity-compose-1.8.2-50 C:\Users\sivab\.gradle\caches\transforms-3\ed109d92b050ed843114808bf8b1e79c\transformed\activity-compose-1.8.2\res
+com.example.fastnotesapp-room-ktx-2.6.1-51 C:\Users\sivab\.gradle\caches\transforms-3\eea0119a035d35ae155149931b08c1dc\transformed\room-ktx-2.6.1\res
+com.example.fastnotesapp-startup-runtime-1.1.1-52 C:\Users\sivab\.gradle\caches\transforms-3\f4540961689b292962b60b68a974e81d\transformed\startup-runtime-1.1.1\res
+com.example.fastnotesapp-lifecycle-viewmodel-savedstate-2.7.0-53 C:\Users\sivab\.gradle\caches\transforms-3\f9147ebf5233ba0681198ca29335b8cc\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.fastnotesapp-sqlite-framework-2.4.0-54 C:\Users\sivab\.gradle\caches\transforms-3\fa2a61e5bc463edfa6faabe8ff2d52d1\transformed\sqlite-framework-2.4.0\res
+com.example.fastnotesapp-room-runtime-2.6.1-55 C:\Users\sivab\.gradle\caches\transforms-3\fc1c64c3273c3cfa288789058ed534e2\transformed\room-runtime-2.6.1\res

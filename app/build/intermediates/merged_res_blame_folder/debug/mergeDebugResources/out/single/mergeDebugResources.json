@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/drawable-nodpi_splash_logo.png.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/drawable-nodpi/splash_logo.png"
+    },
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/mipmap-mdpi_ic_launcher_logo.png.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/mipmap-mdpi/ic_launcher_logo.png"
+    },
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/drawable-night_splash_background.xml.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/drawable-night/splash_background.xml"
+    },
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/mipmap-xxhdpi_ic_launcher_logo.png.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/mipmap-xxhdpi/ic_launcher_logo.png"
+    },
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/drawable_splash_background.xml.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/drawable/splash_background.xml"
+    },
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/mipmap-hdpi_ic_launcher_logo.png.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/mipmap-hdpi/ic_launcher_logo.png"
+    },
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/mipmap-xhdpi_ic_launcher_logo.png.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/mipmap-xhdpi/ic_launcher_logo.png"
+    },
+    {
+        "merged": "com.sivabalaji.tigerflow.app-debug-4:/mipmap-xxxhdpi_ic_launcher_logo.png.flat",
+        "source": "com.sivabalaji.tigerflow.app-main-6:/mipmap-xxxhdpi/ic_launcher_logo.png"
+    }
+]

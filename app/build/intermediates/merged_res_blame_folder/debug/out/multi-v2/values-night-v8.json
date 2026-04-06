@@ -1,0 +1,84 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\sivab\\.gradle\\daemon\\8.4\\com.example.fastnotesapp-mergeDebugResources-2:\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Sivabalaji folder\\my_projects\\my projects\\FastNotesApp\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Sivabalaji folder\\my_projects\\my projects\\FastNotesApp\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "518"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "451"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.fastnotesapp-mergeDebugResources-2:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Sivabalaji folder\\my_projects\\my projects\\FastNotesApp\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Sivabalaji folder\\my_projects\\my projects\\FastNotesApp\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "443"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "449"
+                    }
+                }
+            ]
+        }
+    ]
+}

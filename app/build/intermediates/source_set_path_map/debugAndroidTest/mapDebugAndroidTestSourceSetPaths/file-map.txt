@@ -1,0 +1,5 @@
+com.sivabalaji.tigerflow.test.app-androidTest-0 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\generated\res\resValues\androidTest\debug
+com.sivabalaji.tigerflow.test.app-updated_navigation_xml-1 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.sivabalaji.tigerflow.test.app-mergeDebugAndroidTestResources-2 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.sivabalaji.tigerflow.test.app-mergeDebugAndroidTestResources-3 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.sivabalaji.tigerflow.test.app-debugAndroidTest-4 C:\Sivabalaji folder\my_projects\my projects\FastNotesApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
