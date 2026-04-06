@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐯 TigerFlow
+# 🐯 TigerFlow - Notes & Tasks
 
 **Focus on what matters. Seamlessly manage your thoughts and tasks.**
 
